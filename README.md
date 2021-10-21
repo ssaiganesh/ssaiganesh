@@ -2,6 +2,9 @@
 #### QA Automation Engineer
 I am expanding my knowledge in selected fields and hoping to be able to develop a lot more projects
 
+Projects:
+! [Netflix Clone](https://netflix-clone-e74dd.web.app/)
+
 Skills: Go / REACT / JS / HTML / CSS / Python
 
 - 🔭 I’m currently working on React Projects 
