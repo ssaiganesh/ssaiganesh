@@ -6,6 +6,12 @@ Projects:
 
 - [Netflix Clone](https://netflix-clone-e74dd.web.app/)
 
+Upcoming Interesting Projects:
+- Amazon Clone 
+- Instagram Clone
+- Whatsapp Clone 
+
+
 Skills: Go / REACT / JS / HTML / CSS / Python
 
 - 🔭 I’m currently working on React Projects 
