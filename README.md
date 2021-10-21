@@ -12,7 +12,7 @@ Upcoming Interesting Projects:
 - Whatsapp Clone 
 
 
-Skills: Go / REACT / JS / HTML / CSS / Python
+Skills: Go / REACT / JS / HTML / CSS / Python / SQL
 
 - 🔭 I’m currently working on React Projects 
 - 🌱 I’m currently learning MERN Stack 
