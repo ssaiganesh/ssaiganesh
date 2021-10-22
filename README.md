@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is Sai Ganesh!
 #### QA Automation Engineer
-I am expanding my knowledge in selected fields and hoping to be able to develop a lot more projects
+I am expanding my knowledge in web development and hoping to be able to develop a lot more projects
 
 Projects:
 
