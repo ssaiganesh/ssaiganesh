@@ -5,7 +5,7 @@ I am expanding my knowledge in web development and hoping to be able to develop 
 Projects:
 
 - [Netflix Clone](https://netflix-clone-e74dd.web.app/)
-- [Amazon Clone] (https://ecommerce-4d68b.web.app/)
+- [Amazon Clone](https://ecommerce-4d68b.web.app/)
 
 Upcoming Interesting Projects:
 - LinkedIn Clone 
