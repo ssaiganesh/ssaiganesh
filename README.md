@@ -6,10 +6,10 @@ Projects:
 
 - [Netflix Clone](https://netflix-clone-e74dd.web.app/)
 - [Amazon Clone](https://ecommerce-4d68b.web.app/)
+- [Portfolio Website](https://saiganesh-portfolio.web.app/)
 
 Upcoming Interesting Projects:
 - LinkedIn Clone 
-- Portfolio Website
 - Spotify Clone 
 
 
