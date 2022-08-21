@@ -2,7 +2,10 @@
 #### QA Automation Engineer
 I am expanding my knowledge in web development and hoping to be able to develop a lot more projects
 
-Projects:
+Back-End Projects:
+- [Bookstore Management](https://github.com/ssaiganesh/go-book-management-system)
+
+Front-End Projects:
 
 - [Netflix Clone](https://netflix-clone-e74dd.web.app/)
 - [Amazon Clone](https://ecommerce-4d68b.web.app/)
