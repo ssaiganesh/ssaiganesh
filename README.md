@@ -2,8 +2,10 @@
 #### QA Automation Engineer
 I am expanding my knowledge in web development and hoping to be able to develop a lot more projects
 
-Back-End Projects:
-- [Bookstore Management](https://github.com/ssaiganesh/go-book-management-system)
+Full-Stack Projects:
+- [WIP: Library Bookstore Management](https://github.com/users/ssaiganesh/projects/1)
+    - [Backend - Go](https://github.com/ssaiganesh/go-book-management-system)
+    - [Frontend - React](https://github.com/ssaiganesh/react-book-management-system)
 
 Front-End Projects:
 
