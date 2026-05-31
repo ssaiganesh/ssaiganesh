@@ -1,9 +1,10 @@
 ### Hi there 👋, My Name is Sai Ganesh!
-#### QA Automation Engineer
+#### Software Engineer
 I am expanding my knowledge in artificial intelligence  and hoping to be able to develop a lot more projects. 
 
 AI/ML Project:
 - [WingSpan](https://github.com/ssaiganesh/IRS-PM-2024-01-13-IS06PT-GRP-WingSpan)
+- [Personal Website](https://github.com/ssaiganesh/saiganesh-ai-portfolio)
 
 Front-End Projects:
 
